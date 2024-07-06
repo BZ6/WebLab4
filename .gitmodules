@@ -1,0 +1,6 @@
+[submodule "WebLab4Serv"]
+	path = WebLab4Serv
+	url = https://github.com/BZ6/WebLab4Serv
+[submodule "WebLab4Front"]
+	path = WebLab4Front
+	url = https://github.com/BZ6/WebLab4Front
